@@ -4,28 +4,28 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 2.3\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/gcolor3/issues\n"
-"POT-Creation-Date: 2022-02-01 11:55+0000\n"
-"PO-Revision-Date: 2022-02-26 20:28+1000\n"
-"Last-Translator: Ser82-png <sw@atrus.ru>\n"
+"POT-Creation-Date: 2025-11-10 13:07+0000\n"
+"PO-Revision-Date: 2025-11-10 21:23+0300\n"
+"Last-Translator: Fraxinus Acer\n"
 "Language-Team: puppyrus.org\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.3\n"
+"X-Generator: Poedit 3.8\n"
 
-#: data/nl.hjdskes.gcolor3.desktop.in:3
+#: data/nl.hjdskes.gcolor3.desktop.in:2
 #: data/nl.hjdskes.gcolor3.appdata.xml.in:7 src/gcolor3-application.c:154
 msgid "Color Picker"
-msgstr "Получение цвета"
+msgstr "Color Picker"
 
-#: data/nl.hjdskes.gcolor3.desktop.in:4
+#: data/nl.hjdskes.gcolor3.desktop.in:3
 #: data/nl.hjdskes.gcolor3.appdata.xml.in:8 src/gcolor3-application.c:88
 msgid "Choose colors from the picker or the screen"
 msgstr "Определите цвет на экране с помощью пипетки"
 
 #. Translators: Extra keywords that can be used to search for Gcolor3 in GNOME Shell and Unity
-#: data/nl.hjdskes.gcolor3.desktop.in:13
+#: data/nl.hjdskes.gcolor3.desktop.in:12
 msgid "Color;Picker;Palette;"
 msgstr "Color;Picker;Palette;Цвет;Пипетка;Палитра;"
 
@@ -54,7 +54,7 @@ msgid ""
 "Gcolor2, but uses the newer GTK version and other modernisations to better "
 "integrate into your modern desktop."
 msgstr ""
-"\"Получение цвета\" - это приложение выбора цвета написанная на GTK+ 3. Оно "
+"\"Color Picker\" - это приложение выбора цвета написанная на GTK 3. Оно "
 "похоже на Gcolor2, но использует новую версию GTK+ и другие улучшения для "
 "лучшей интеграции в современные окружения рабочих столов."
 
@@ -69,7 +69,7 @@ msgstr "Список сохранённых цветов"
 #. Translators: please do NOT translate this.
 #: data/nl.hjdskes.gcolor3.appdata.xml.in:43
 msgid "Christopher Davis"
-msgstr "Christopher Davis"
+msgstr "Кристофер Дэвис"
 
 #: data/color-row.ui:31
 msgid "Hex"
@@ -81,7 +81,7 @@ msgstr "Щёлкните для изменения имени цвета"
 
 #: data/color-row.ui:47
 msgid "Name"
-msgstr "Имя"
+msgstr "Название"
 
 #: data/color-row.ui:68
 msgid "Copy this color’s hex value to the clipboard"
@@ -97,7 +97,7 @@ msgstr "_Комбинации клавиш"
 
 #: data/menus.ui:11
 msgid "_About Color Picker"
-msgstr "_О приложении \"Получение цвета\""
+msgstr "_О приложении \"Color Picker\""
 
 #: data/shortcuts.ui:14
 msgctxt "shortcut window"
@@ -136,7 +136,7 @@ msgstr "Удалить выделенный цвет"
 
 #: data/window.ui:32
 msgid "Color name…"
-msgstr "Имя цвета…"
+msgstr "Название цвета…"
 
 #: data/window.ui:94
 msgid "Save a picked color to make it appear here"
@@ -156,7 +156,7 @@ msgstr "Показать версию приложения"
 
 #: src/main.c:54
 msgid "— pick a color from the picker or the screen"
-msgstr "- определите цвет на экране с помощью пипетки"
+msgstr "— определите цвет на экране с помощью пипетки"
 
 #: src/main.c:65
 #, c-format
@@ -168,7 +168,8 @@ msgstr "Запустите ”%s --help” для просмотра списк�
 msgid "translator-credits"
 msgstr ""
 "PuppyRus linux Team, 2018\n"
-"Ser82-png <sw@atrus.ru>, 2022"
+"Ser82-png <sw@atrus.ru>, 2022\n"
+"Fraxinus Acer, 2025"
 
 #: src/gcolor3-application.c:93
 msgid "Website"
@@ -246,7 +247,7 @@ msgstr "Прозрачность цвета."
 
 #: src/gcolor3-color-selection.c:437
 msgid "Color _Name:"
-msgstr "_Имя цвета:"
+msgstr "_Название цвета:"
 
 #: src/gcolor3-color-selection.c:452
 msgid ""
