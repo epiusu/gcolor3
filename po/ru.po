@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 2.3\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/gcolor3/issues\n"
-"POT-Creation-Date: 2025-11-10 13:07+0000\n"
-"PO-Revision-Date: 2025-11-10 21:23+0300\n"
+"POT-Creation-Date: 2025-12-10 13:32+0000\n"
+"PO-Revision-Date: 2025-12-16 19:40+0300\n"
 "Last-Translator: Fraxinus Acer\n"
 "Language-Team: puppyrus.org\n"
 "Language: ru\n"
@@ -207,7 +207,7 @@ msgstr "Интенсивность цвета."
 
 #: src/gcolor3-color-selection.c:402
 msgid "_Value:"
-msgstr "_Значение цвета:"
+msgstr "_Цветность:"
 
 #: src/gcolor3-color-selection.c:403
 msgid "Brightness of the color."
